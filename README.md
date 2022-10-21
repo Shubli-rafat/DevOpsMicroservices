@@ -1,4 +1,4 @@
-[![Shubli-rafat](https://circleci.com/github/Shubli-rafat/DevOpsMicroservices.svg?style=svg)](https://circleci.com/gh/Shubli-rafat/DevOpsMicroservices)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Shubli-rafat/DevOpsMicroservices/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Shubli-rafat/DevOpsMicroservices/tree/main)
 
 ## Project Overview
 
