@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![Shubli-rafat](https://circleci.com/github/Shubli-rafat/DevOpsMicroservices.svg?style=svg)](https://circleci.com/gh/Shubli-rafat/DevOpsMicroservices)
 
 ## Project Overview
 
